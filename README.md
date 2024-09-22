@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Vasanth Marimuthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&theme=synthwave)](https://github.com/s3bc40/github-readme-stats)
+[![Vasanth Marimuthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&theme=synthwave)](https://github.com/vasanthmarimuth/github-readme-stats)
 <!--
 **vasanthmarimuth/vasanthmarimuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
