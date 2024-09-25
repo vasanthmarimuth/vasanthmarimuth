@@ -11,8 +11,11 @@
 
 ### Blockchain advancement 🤯
 - 🐸 Cyfrin updraft :
+
+<div style="display: flex;">
 <img src="https://github.com/vasanthmarimuth/certificates/blob/main/blockchain-basics-completed.png" alt="blockchain-basics-completed" width="250"/>
 <img src="https://github.com/vasanthmarimuth/certificates/blob/main/solidity-completed.png" alt="solidity-completed" width="250"/>
+</div>
 
 ### ⚡ My GitHub Stats
 <div>  
