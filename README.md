@@ -14,16 +14,12 @@
 <img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
 <img src="https://github.com/user-attachments/assets/b69ec8a0-930c-4fe0-a4de-2915bb9c6211" alt="solidity-completed" width="250"/>
 
-<details>
-  <summary>:zap: My GitHub Stats</summary>
-  &emsp;
 <div>  
   <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
   </a>
   <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthmarimuth&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="Vasanth Marimuthu" width=49.79% />
   </a>
 </div>
-</details>
 
 ### Miscellaneous
 <a href="https://app.daily.dev/vasanthm96"><img src="https://api.daily.dev/devcards/v2/nxd59MSr4uElqdCaFlZVx.png?type=default&r=0c3" width="356" alt="Vasanth M's Dev Card"/></a>
