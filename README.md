@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Vasanth Marimuthu 👋
 
-[![Vasanth Marimuthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&theme=synthwave)](https://github.com/vasanthmarimuth/github-readme-stats)
+[![Vasanth Marimuthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&theme=dracula)](https://github.com/vasanthmarimuth/github-readme-stats)
 <!--
 **vasanthmarimuth/vasanthmarimuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Miscellaneous
+<a href="https://app.daily.dev/vasanthm96"><img src="https://api.daily.dev/devcards/v2/nxd59MSr4uElqdCaFlZVx.png?type=default&r=0c3" width="356" alt="Vasanth M's Dev Card"/></a>
