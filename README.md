@@ -6,6 +6,7 @@
 
 
 - :computer: I’m currently learning Blockchain technology and web3 to be able to reach a new community and to get new skills.
+- 🤖 Thrive on automating tasks and finding creative solutions using Shell scripting.
 - 🎯 Loving learning new technology that is difficult to learn.
 - 🎓 Eager to learn.
 
