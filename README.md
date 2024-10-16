@@ -10,13 +10,6 @@
 - 🎯 Loving learning new technology that is difficult to learn.
 - 🎓 Eager to learn.
 
-### Blockchain advancement 🤯
-- 🐸 Cyfrin updraft :
-
-<div style="display: flex;">
-<img src="https://github.com/vasanthmarimuth/certificates/blob/main/blockchain-basics-completed.png" alt="blockchain-basics-completed" width="250"/>
-<img src="https://github.com/vasanthmarimuth/certificates/blob/main/solidity-completed.png" alt="solidity-completed" width="250"/>
-</div>
 
 ### ⚡ My GitHub Stats
 <div>  
@@ -26,6 +19,4 @@
   </a>
 </div>
 
-### Miscellaneous
-<a href="https://app.daily.dev/vasanthm96"><img src="https://api.daily.dev/devcards/v2/nxd59MSr4uElqdCaFlZVx.png?type=default&r=0c3" width="356" alt="Vasanth M's Dev Card"/></a>
 
