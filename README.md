@@ -10,6 +10,8 @@
 - 🎯 Loving learning new technology that is difficult to learn.
 - 🎓 Eager to learn.
 
+### Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
 
 ### ⚡ My GitHub Stats
 <div>  
