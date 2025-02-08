@@ -41,10 +41,10 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 </div>
-<br>
+
 ### Github Trophies
 ![Tropies](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
-<br>
+
 ### ⚡ My GitHub Stats
 <div>  
   <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
