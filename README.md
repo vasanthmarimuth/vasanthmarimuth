@@ -43,7 +43,7 @@
 </div>
 <br>
 ### Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
+![Tropies](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
 <br>
 ### ⚡ My GitHub Stats
 <div>  
