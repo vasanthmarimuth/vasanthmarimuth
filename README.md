@@ -1,19 +1,27 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Hi+there%2C+Welcome+to+my+Mini+World!" alt="Typing SVG" />
 </h1>
-
-- :computer: I’m currently diving deep into Blockchain technology, focusing on Solidity, Ethereum development, and integrating with Chainlink. I'm eager to contribute to the decentralized world and expand my skillset in this exciting space.
-- 🎯 I'm passionate about tackling challenging technical problems and constantly learning new technologies. I thrive on exploring the complexities of blockchain development.
-- 🎓 I'm a dedicated and enthusiastic learner, always seeking opportunities to grow and improve my skills in the blockchain domain.
+<br>
 
 ### My Blockchain Interests and Skills
 
-*   **Smart Contract Development:** Proficient in writing and deploying smart contracts using Solidity on the Ethereum blockchain.
-*   **Decentralized Applications (dApps):**  Building and interacting with dApps, leveraging Ethereum and related technologies.
-*   **Oracle Integration:**  Experience working with Chainlink to connect smart contracts to real-world data and APIs.
-*   **Wallet Integration:**  Familiar with using MetaMask for secure interaction with the Ethereum network and dApps.
-*   **Testing and Debugging:**  Developing robust and reliable smart contracts through rigorous testing and debugging practices in Foundry.
+**🔧 Technologies I Work With:**
 
+*   **Solidity 💻:**  Writing and deploying smart contracts on the Ethereum blockchain.
+*   **Ethereum ⛓️:** Building and interacting with decentralized applications (dApps) on the Ethereum network.
+*   **Chainlink 🔗:** Integrating real-world data and APIs into smart contracts using Chainlink oracles.
+*   **MetaMask 🦊:** Connecting to the Ethereum network and managing cryptocurrency assets securely.
+*   **Foundry 🛠️:** Developing and testing smart contracts using the Foundry framework.
+
+**🌟 Skills & Passion:**
+
+*   **Smart Contract Development:**  Proficient in Solidity, including contract design, implementation, and optimization.
+*   **dApp Development:** Building user interfaces and backend logic for decentralized applications.
+*   **Oracle Integration:**  Experience using Chainlink to fetch data, trigger events, and interact with external systems.
+*   **Wallet Integration:**  Seamlessly integrating MetaMask for user authentication and transaction management.
+*   **Testing & Debugging:**  Writing unit and integration tests for smart contracts using Foundry.
+*   **Web3 Development:**  Understanding of the Web3 ecosystem and its potential.
+<br>
  <div align="">
 	 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png" alt="Chainlink" title="Chainlink"/></code>
@@ -33,10 +41,10 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 </div>
-
+<br>
 ### Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
-
+<br>
 ### ⚡ My GitHub Stats
 <div>  
   <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vasanthmarimuth&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
