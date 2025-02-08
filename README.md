@@ -2,6 +2,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Hi+there%2C+Welcome+to+my+Mini+World!" alt="Typing SVG" />
 </h1>
 
+- :computer: I’m currently diving deep into Blockchain technology, focusing on Solidity, Ethereum development, and integrating with Chainlink. I'm eager to contribute to the decentralized world and expand my skillset in this exciting space.
+- 🎯 I'm passionate about tackling challenging technical problems and constantly learning new technologies. I thrive on exploring the complexities of blockchain development.
+- 🎓 I'm a dedicated and enthusiastic learner, always seeking opportunities to grow and improve my skills in the blockchain domain.
+
+### My Blockchain Interests and Skills
+
+*   **Smart Contract Development:** Proficient in writing and deploying smart contracts using Solidity on the Ethereum blockchain.
+*   **Decentralized Applications (dApps):**  Building and interacting with dApps, leveraging Ethereum and related technologies.
+*   **Oracle Integration:**  Experience working with Chainlink to connect smart contracts to real-world data and APIs.
+*   **Wallet Integration:**  Familiar with using MetaMask for secure interaction with the Ethereum network and dApps.
+*   **Testing and Debugging:**  Developing robust and reliable smart contracts through rigorous testing and debugging practices in Foundry.
+
  <div align="">
 	 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png" alt="Chainlink" title="Chainlink"/></code>
@@ -21,14 +33,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 </div>
-
-
-
-
-
-- :computer: I’m currently learning Blockchain technology and web3 to be able to reach a new community and to get new skills.
-- 🎯 Loving learning new technology that is difficult to learn.
-- 🎓 Eager to learn.
 
 ### Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vasanthmarimuth&theme=dark)
