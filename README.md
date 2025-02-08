@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Hi+there%2C+Welcome+to+my+Mini+World!" alt="Typing SVG" />
 </h1>
 
- <div align="center">
+ <div align="">
 	 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png" alt="Chainlink" title="Chainlink"/></code>
 	 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
