@@ -3,29 +3,6 @@
 </h1>
 <br>
 
-# My Blockchain Interests and Skills
-
-
-**🔧 Technologies I Work With:**
-
-
-*   **Solidity 💻:**  Writing and deploying smart contracts on the Ethereum blockchain.
-*   **Ethereum ⛓️:** Building and interacting with decentralized applications (dApps) on the Ethereum network.
-*   **Chainlink 🔗:** Integrating real-world data and APIs into smart contracts using Chainlink oracles.
-*   **MetaMask 🦊:** Connecting to the Ethereum network and managing cryptocurrency assets securely.
-*   **Foundry 🛠️:** Developing and testing smart contracts using the Foundry framework.
-
-**🌟 Skills & Passion:**
-
-
-*   **Smart Contract Development:**  Proficient in Solidity, including contract design, implementation, and optimization.
-*   **dApp Development:** Building user interfaces and backend logic for decentralized applications.
-*   **Oracle Integration:**  Experience using Chainlink to fetch data, trigger events, and interact with external systems.
-*   **Wallet Integration:**  Seamlessly integrating MetaMask for user authentication and transaction management.
-*   **Testing & Debugging:**  Writing unit and integration tests for smart contracts using Foundry.
-*   **Web3 Development:**  Understanding of the Web3 ecosystem and its potential.
-
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
